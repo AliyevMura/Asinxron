@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Asinxron\Asinxron\obj\Debug\net6.0\Asinxron.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Asinxron\Asinxron\obj\Debug\net6.0\Asinxron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Asinxron\Asinxron\obj\Debug\net6.0\Asinxron.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Asinxron\Asinxron\obj\Debug\net6.0\Asinxron.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Asinxron\Asinxron\obj\Debug\net6.0\Asinxron.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Asinxron\Asinxron\bin\Debug\net6.0\Asinxron.exe
+C:\Users\lenovo\source\repos\Asinxron\Asinxron\bin\Debug\net6.0\Asinxron.deps.json
+C:\Users\lenovo\source\repos\Asinxron\Asinxron\bin\Debug\net6.0\Asinxron.runtimeconfig.json
+C:\Users\lenovo\source\repos\Asinxron\Asinxron\bin\Debug\net6.0\Asinxron.dll
+C:\Users\lenovo\source\repos\Asinxron\Asinxron\bin\Debug\net6.0\Asinxron.pdb
+C:\Users\lenovo\source\repos\Asinxron\Asinxron\obj\Debug\net6.0\Asinxron.dll
+C:\Users\lenovo\source\repos\Asinxron\Asinxron\obj\Debug\net6.0\refint\Asinxron.dll
+C:\Users\lenovo\source\repos\Asinxron\Asinxron\obj\Debug\net6.0\Asinxron.pdb
+C:\Users\lenovo\source\repos\Asinxron\Asinxron\obj\Debug\net6.0\Asinxron.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Asinxron\Asinxron\obj\Debug\net6.0\ref\Asinxron.dll
